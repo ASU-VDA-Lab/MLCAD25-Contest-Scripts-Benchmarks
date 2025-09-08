@@ -84,26 +84,28 @@ make -j
 
 (Reported by OpenSTA)
 
-## 🏆 Leaderboard – Beta Submission 
+## 🏆 Leaderboard – Final Submission 
 ### Overall leaderboard
-|Rank|Team  |Score |
-|----|------|------|
-|1   |Team3 |959.31|
-|2   |Team20|910.89|
-|3   |Team23|863.25|
+|Rank|Team ID|Team Name|Score |
+|----|-------|---------|------|
+|1   |Team23 | PhyMap  |764.04|
+|2   |Team13 | CSDL    |713.96|
+|3   |Team27 | ACE-DMA |482.78|
 
 ### Leaderboard per design
 | Design                     | Top Team(s)       |
 |----------------------------|-------------------|
-| ac97_top                   | Team20            |
-| aes_cipher_top             | Team3             |
-| NV_NVDLA_partition_m       | Team3             |
-| fpu                        | Team3             |
-| NV_NVDLA_partition_p       | Team3             |
-| NV_NVDLA_partition_c       | Team3             |
-| Hidden1                    | Team3             |
-| Hidden2                    | Team3             |
-| Hidden3                    | Team3             |
+| ac97_top                   | Team23            |
+| aes_cipher_top             | Team13            |
+| NV_NVDLA_partition_m       | Team13            |
+| fpu                        | Team13            |
+| NV_NVDLA_partition_p       | Team13            |
+| NV_NVDLA_partition_p_mod   | Team23            |
+| NV_NVDLA_partition_c       | Team23            |
+| Hidden1                    | Team27            |
+| Hidden2                    | Team23            |
+| Hidden3                    | Team23            |
 | Hidden4                    | Team3             |
+| Hidden5                    | Team13            |
 
  
