@@ -1,0 +1,2 @@
+design_name, die_width, die_height, die_area, core_width, core_height, core_area, insts_count, net_count, total_static_power, total_dynamic_power
+ac97_top,45.828,45.756,2096.905968,43.794,43.74,1915.54956,8029,8117,8.279311326265214e-05,0.297637233506149

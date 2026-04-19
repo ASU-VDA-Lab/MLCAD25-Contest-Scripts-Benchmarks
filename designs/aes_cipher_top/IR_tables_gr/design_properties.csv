@@ -1,0 +1,2 @@
+design_name, die_width, die_height, die_area, core_width, core_height, core_area, insts_count, net_count, total_static_power, total_dynamic_power
+aes_cipher_top,42.912,42.516,1824.4465919999998,40.878,40.5,1655.559,10965,11228,2.976256742104333e-05,0.05569998429360723

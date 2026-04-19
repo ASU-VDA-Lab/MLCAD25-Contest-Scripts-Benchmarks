@@ -1,0 +1,2 @@
+design_name, die_width, die_height, die_area, core_width, core_height, core_area, insts_count, net_count, total_static_power, total_dynamic_power
+pci_bridge32,56.916,56.556,3218.9412959999995,54.864,54.54,2992.2825599999996,12130,12305,5.289711247107659e-05,0.05615986426132554
