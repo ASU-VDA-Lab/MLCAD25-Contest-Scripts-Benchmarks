@@ -1,0 +1,2 @@
+design_name, die_width, die_height, die_area, core_width, core_height, core_area, insts_count, net_count, total_static_power, total_dynamic_power
+mempool_tile_wrap,391.536,390.996,153089.009856,381.51,380.97,145343.8647,150545,153975,0.003129802580677597,2.7221904083097788

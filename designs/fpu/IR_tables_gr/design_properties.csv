@@ -1,0 +1,2 @@
+design_name, die_width, die_height, die_area, core_width, core_height, core_area, insts_count, net_count, total_static_power, total_dynamic_power
+fpu,54.252,53.856,2921.795712,52.218,51.84,2706.9811200000004,19725,19991,1.9253865214764743e-05,0.14512030902279488
